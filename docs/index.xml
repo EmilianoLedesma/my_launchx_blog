@@ -13,7 +13,7 @@
       <pubDate>Sun, 10 Apr 2022 18:16:21 -0600</pubDate>
       
       <guid>https://emilianoledesma.github.io/my_launchx_blog/posts/extensiones-para-vscode/</guid>
-      <description>Import Cost: Al importar dependencias Javascript instaladas con npm, indica el tamaño de la misma (incluso en gzip, tamaño con el que suele viajar por Internet). Soporta import / require. https://t.co/pMJGfcI9xb Indent Rainbow: Dale un poco de color a tus niveles de indentación, facilitando la legibilidad del código. Es personalizable, por lo que también puedes cambiar los colores. https://t.co/hS3mNf0DR3 Error Lens: Con esta extensión, es posible mostrar los errores de los linters en rojo, en el propio fichero de código, de forma que sea más evidente y visual el problema.</description>
+      <description>Import Cost: Al importar dependencias Javascript instaladas con npm, indica el tamaño de la misma (incluso en gzip, tamaño con el que suele viajar por Internet). Soporta import / require: https://t.co/pMJGfcI9xb Indent Rainbow: Dale un poco de color a tus niveles de indentación, facilitando la legibilidad del código. Es personalizable, por lo que también puedes cambiar los colores: https://t.co/hS3mNf0DR3 Error Lens: Con esta extensión, es posible mostrar los errores de los linters en rojo, en el propio fichero de código, de forma que sea más evidente y visual el problema: https://t.</description>
     </item>
     
     <item>
